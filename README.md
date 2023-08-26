@@ -16,5 +16,5 @@ This is a simple example project demonstrating how to build a CRUD (Create, Read
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/node-express-graphql-crud.git
+   git clone https://github.com/sachin-11/node-express-graphql-crud.git
    cd node-express-graphql-crud
